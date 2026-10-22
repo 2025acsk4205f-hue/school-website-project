@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title description">
+  <title id="title">Ugandan schoolgirls in yellow dresses</title>
+  <desc id="description">An illustration of three Black Ugandan schoolgirls smiling together in bright yellow dresses, with a school and green hills behind them.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#b8e0d0"/>
+      <stop offset="1" stop-color="#f1e9c9"/>
+    </linearGradient>
+    <linearGradient id="dress" x2="0" y2="1">
+      <stop stop-color="#ffdf43"/>
+      <stop offset="1" stop-color="#f1ad16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <circle cx="1150" cy="145" r="72" fill="#fff0a8"/>
+  <path d="M0 470Q190 350 390 465T800 440T1400 430V900H0Z" fill="#77a66f"/>
+  <path d="M0 565Q230 455 455 565T910 525T1400 555V900H0Z" fill="#4f8257"/>
+  <g opacity=".94">
+    <path d="M825 244h390v315H825z" fill="#f4efe0"/>
+    <path d="M790 244 1020 95l230 149z" fill="#a34c36"/>
+    <path d="M965 385h105v174H965z" fill="#668f82"/>
+    <path d="M855 305h75v82h-75zm235 0h75v82h-75z" fill="#92b9b0"/>
+    <path d="M855 305h75m-37-0v82m197-82h75m-37 0v82" fill="none" stroke="#f4efe0" stroke-width="9"/>
+    <path d="M790 558h460" stroke="#d4c6a2" stroke-width="17"/>
+    <path d="M1272 392h28v166h-28z" fill="#785c3d"/>
+    <path d="M1233 392q53-77 106 0" fill="#477e49"/>
+    <path d="M1260 365q25-75 52-3" fill="#5f9852"/>
+  </g>
+  <g stroke="#542c25" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M322 426q-8-142 114-151 131 5 123 153l-20 160H337z" fill="#211b1b" stroke-width="12"/>
+    <path d="M386 340q8-50 53-50 49 0 55 52l-2 88h-107z" fill="#713f32" stroke-width="9"/>
+    <path d="M384 341q-2-44 26-66 57-30 94 11l12 42q-43-33-132 13" fill="#1e191a" stroke-width="8"/>
+    <path d="M410 384q9 7 18 0m36 0q9 7 18 0" fill="none" stroke-width="6"/>
+    <path d="M420 410q22 18 44-1" fill="none" stroke="#f6d8bf" stroke-width="6"/>
+    <path d="M429 425v38m38-38v38" fill="none" stroke-width="13"/>
+    <path d="M370 457q68-34 134 0l47 166q-112 43-228 0z" fill="url(#dress)" stroke-width="12"/>
+    <path d="M376 477q-75 46-88 121m229-121q57 34 77 96" fill="none" stroke="#713f32" stroke-width="23"/>
+    <path d="M342 624q91 27 190 0" fill="none" stroke="#fff0a8" stroke-width="10"/>
+  </g>
+  <g stroke="#542c25" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M560 400q-5-155 132-158 143 4 134 161l-20 179H584z" fill="#211b1b" stroke-width="12"/>
+    <path d="M635 319q8-53 57-54 53 1 59 56l-3 96H637z" fill="#87503b" stroke-width="9"/>
+    <path d="M633 328q-7-43 23-67 59-40 105 2l15 38q-43-22-143 27" fill="#231b1a" stroke-width="8"/>
+    <path d="M644 367q10 7 20 0m44 0q10 7 20 0" fill="none" stroke-width="6"/>
+    <path d="M662 395q27 20 54-1" fill="none" stroke="#f6d8bf" stroke-width="6"/>
+    <path d="M671 413v42m43-42v42" fill="none" stroke-width="13"/>
+    <path d="M615 446q77-35 150 0l52 178q-129 43-258 0z" fill="url(#dress)" stroke-width="12"/>
+    <path d="M621 468q-65 30-95 104m239-104q81 41 92 111" fill="none" stroke="#87503b" stroke-width="23"/>
+    <path d="M585 626q108 27 214 0" fill="none" stroke="#fff0a8" stroke-width="10"/>
+  </g>
+  <g stroke="#542c25" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M830 432q-8-139 111-151 133 5 124 151l-18 161H845z" fill="#211b1b" stroke-width="12"/>
+    <path d="M891 346q8-50 54-51 51 0 58 52l-3 89H893z" fill="#62392f" stroke-width="9"/>
+    <path d="M889 352q-6-43 23-67 56-36 104 1l12 40q-46-25-137 26" fill="#1f1a1a" stroke-width="8"/>
+    <path d="M899 390q9 7 19 0m42 0q9 7 19 0" fill="none" stroke-width="6"/>
+    <path d="M916 417q26 19 53-1" fill="none" stroke="#f6d8bf" stroke-width="6"/>
+    <path d="M923 434v39m41-39v39" fill="none" stroke-width="13"/>
+    <path d="M873 468q74-35 145 0l49 156q-122 43-243 0z" fill="url(#dress)" stroke-width="12"/>
+    <path d="M878 489q-68 38-91 111m231-111q68 40 80 107" fill="none" stroke="#62392f" stroke-width="23"/>
+    <path d="M844 626q103 27 207 0" fill="none" stroke="#fff0a8" stroke-width="10"/>
+  </g>
+  <path d="M0 702h1400v198H0z" fill="#315a42" opacity=".22"/>
+  <path d="M72 850q63-77 124 0m1000-19q54-73 108 0" fill="none" stroke="#d6e8bb" stroke-width="9" opacity=".65"/>
+</svg>
